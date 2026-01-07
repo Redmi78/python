@@ -6,5 +6,7 @@ sum=float(input1)+float(input2)
 print(sum)
 
 
-
+a=10
+print(a)
+print("Hello, World!")
 
